@@ -28,8 +28,8 @@ http.get({'host': 'api.ipify.org', 'port': 80, 'path': '/'}, function(resp) {
 
 global.LANGUAGE_IND = indonesia;
 global.LANGUAGE_ENG = english;
-global.KEY_OPENAI = "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";
-global.BOT_TOKEN = "6111192867:AAEoqOx5Fil2AmFi1-BQtFtRj9tbudhCTGw";
+global.KEY_OPENAI = "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";
+global.BOT_TOKEN = "6111192867:AAGA-HMvtyPjImmf_K7nsaOA8YLROFg2-9o";
 global.BOT_NAME = "Aze-Bot";
 global.OWNER_NAME = "RezaDevv";
 global.OWNER_NUMBER = "6285742632270";
