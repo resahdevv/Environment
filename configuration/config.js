@@ -15,7 +15,7 @@ global.APIs = {
 };
 
 global.APIKeys = {
-    "https://api.zahwazein.xyz": "Your Key",
+    "https://api.zahwazein.xyz": "zenzkey_d1532f1c81a5",
     "https://api.lolhuman.xyz": "c237b9317e6fbc79f353d6e7",
 };
 
